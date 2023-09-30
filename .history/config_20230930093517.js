@@ -47,16 +47,16 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'Homosexual Bot'
+global.botname = '𝙰𝙱𝙷𝙸𝚂𝙷𝙴𝙺-𝚂𝙴𝚁'
 global.premium = 'true'
-global.packname = 'Zeus Bitchless' 
-global.author = 'Naruto Dickless' 
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/ethan_unholy\n' 
-global.dygp = 'https://chat.whatsapp.com/x'
-global.fgsc = 'https://github.com/x/x' 
-global.fgyt = 'https://youtube.com/x'
-global.fgpyp = 'https://youtube.com/x'
-global.fglog = 'https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9f3f9bd9-0673-4276-bb34-71ece2a5820e/dg3f5b8-269303dd-e0ef-4247-b64e-81a80971b5ee.png/v1/fit/w_828,h_1104,q_70,strp/nami__ai_art__by_3d1viner_dg3f5b8-414w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjU2MCIsInBhdGgiOiJcL2ZcLzlmM2Y5YmQ5LTA2NzMtNDI3Ni1iYjM0LTcxZWNlMmE1ODIwZVwvZGczZjViOC0yNjkzMDNkZC1lMGVmLTQyNDctYjY0ZS04MWE4MDk3MWI1ZWUucG5nIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.F8_W5Hj5OUUbZM1e8lLsD-6CpwYhIPw9r2wOQZnD2nQ' 
+global.packname = 'gay' 
+global.author = 'gay' 
+global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/abhishek_ser\n' 
+global.dygp = 'https://chat.whatsapp.com/BOLb0ICN3sAJ5dloRBw5VD'
+global.fgsc = 'https://github.com/AbhishekSuresh2/ABHISHEK-SER' 
+global.fgyt = 'https://youtube.com/@comedymelodych8468'
+global.fgpyp = 'https://youtube.com/@comedymelodych8468'
+global.fglog = 'https://replicate.delivery/pbxt/QbP6Fh3ZXwKON9SCB70ERGwwgeeSbztwKIOIzhUeXFkwnFHiA/out.png' 
 
 //imagen
 global.imagen1 = fs.readFileSync('./src/Abhi.jpg')
