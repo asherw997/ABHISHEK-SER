@@ -56,9 +56,15 @@ let infobt = `
 ▢ *${chats.length}* Total Chats
 
 *≡ OWNER*
-  *FARTFETISH ETHAN*
+  *ABHISHEK SURESH*
 ▢ Instagram :
-  • https://instagram.com/ethan_unholy
+  • https://instagram.com/abhishek_ser
+▢ GitHub :
+  • https://github.com/AbhishekSuresh2
+▢ Telegram : 
+  • https://t.me/Abhishek_Ser  
+▢ YouTube : 
+  • https://youtube.com/@comedymelodych8468
 
  *≡ S E R V E R*
 *🛑 RAM:* ${format(totalmem() - freemem())} / ${format(totalmem())}
